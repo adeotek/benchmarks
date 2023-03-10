@@ -1,0 +1,17 @@
+{
+  "name": "benchmarks",
+  "version": "0.0.0",
+  "description": "Benchmarks",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "k6": "0.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
